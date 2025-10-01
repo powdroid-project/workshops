@@ -24,4 +24,4 @@ So, which app consumes the least energy? 🏆
 
 # Share your results with the world
 
-Make a Pull Request to add your data to the dedicated [crowdsourcing](../crowdsourcing/) repository
+Make a Pull Request to add your data to the dedicated [crowdsourcing](powdroid-project/crowdsourcing) repository
